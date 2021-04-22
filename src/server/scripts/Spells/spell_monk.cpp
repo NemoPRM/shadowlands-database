@@ -175,7 +175,7 @@ public:
 
             caster->CastSpell(caster, 107427, true);
         }
-
+        
         void Register() override
         {
             BeforeCast += SpellCastFn(spell_monk_roll_SpellScript::HandleBeforeCast);
