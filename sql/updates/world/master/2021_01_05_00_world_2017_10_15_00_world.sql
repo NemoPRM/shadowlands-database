@@ -1,4 +1,4 @@
- The boar hunter requires 12 kills, not 8
+-- The boar hunter requires 12 kills, not 8
 -- UPDATE `quest_template` SET `LogDescription`="Talin Keeneye would like you to kill 12 Small Crag Boars.", `RequiredNpcOrGoCount1` = 12 WHERE `ID`=183;
 
 -- Quest Westbrook Garrison Needs Help! has The Jasperlode Mine as prequest
